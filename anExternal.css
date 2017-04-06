@@ -1,0 +1,14 @@
+body {
+    background-color: lightcoral;
+}
+
+h1 {
+    color: purple;
+}
+
+h1.another {
+    color: darkred;
+    border: 2px solid darkred;
+    border-radius: 10px;
+    text-align: center;
+}
